@@ -1,2 +1,2 @@
-# Team-Website
+# team-website
 CSC216 Final Practicals
