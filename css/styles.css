@@ -9,8 +9,8 @@
   --color-surface: #ffffff;
   --color-text: #1c2430;
   --color-muted: #5a6474;
-  --color-primary: #0f6e6e;
-  --color-primary-dark: #0a5050;
+  --color-primary: #2b9474;
+  --color-primary-dark: #3c6274;
   --color-on-primary: #ffffff;
   --color-border: #dde1e6;
   --color-error: #b3261e;
@@ -414,4 +414,12 @@ textarea[aria-invalid="true"] {
   *::after {
     transition: none !important;
   }
+}
+.card img{
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  border: solid;
+  border-color: #2b9474;;
+
 }
